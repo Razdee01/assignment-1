@@ -39,6 +39,9 @@ nav a{
     padding: 12px 36px;
     border: none;
     border-radius: 10px;
+    font-size:16px; 
+    
+    
 
 }
 nav h3{
@@ -51,4 +54,22 @@ nav h3{
     margin-top: 158px;
     margin-bottom: 200px;
     
+}
+.banner{
+    display: flex;
+    justify-content: space-between;
+    margin: 150px;
+}
+.banner-title{
+    font-weight: bold;
+    font-size: 42px;
+    
+}
+.banner-description{
+    color: #252432;
+    font-size: 24px;
+}
+.banner-img img{
+    border: none;   
+    border-radius: 48px;
 }
