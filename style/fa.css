@@ -81,6 +81,7 @@ nav h3{
 .number{
     background-color:#ceeded;
     padding:50px 140px ;
+    margin: 0px 200px;
 }
 .numbers{
     display: flex;
@@ -95,8 +96,56 @@ nav h3{
 .n-description{
     font-size: 20px;
     color: #000000;
+}
+.user-title{
+    font-size: 42px;
+    text-align: center;
 
 }
+.item-2{
+    display: flex;
+    
+}
+.date{
+    font-weight: 400;
+}
+.flex{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.total-item{
+    box-shadow: 2px 2px 5px;
+    padding: 8px;
+    border-radius: 5px;
+}
+.item-2 img{
+    border-radius: 10px;
+}
+.login{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 200px 300px;
+    
+    
+
+}
+.part1{
+    font-size: 70px;
+
+}
+.part2{
+    font-size: 2em;
+
+}
+ main input[type="text"]{
+    height: 40px;
+    width: 300px;
+    display: block;
+    font-size: 0.5em;
+
+ }
 
 
 
