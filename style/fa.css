@@ -1,3 +1,4 @@
+
 /* nav section */
 
 .inter-normal{
@@ -43,6 +44,9 @@ nav a{
     
     
 
+}
+.btn:hover {
+    background-color: #050435;
 }
 nav h3{
     font-size: 34px;
@@ -146,6 +150,42 @@ nav h3{
     font-size: 0.5em;
 
  }
+ footer{
+    background-color:aliceblue;
+ }
+ .footer{
+    
+     text-align: center;
+    margin: 100px ;
+ }
+ .flogo{
+    font-size: 100px;
+    font-weight: 900;
+    color: #4E47FF;
+   
+ }
+.fp{
+    font-size: 1.5em;
+    color: #8987A1
+    
+ }
+ .fnav ul{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+ }
+ .fnav a{
+    text-decoration: none;
+    color: #8987A1;
+ }
+ .fnav li{
+    list-style: none;
+    font-size: 1.5em;
+ }
+  .fnav a:hover{
+    color: #000000;
+ }
+
 
 
 
